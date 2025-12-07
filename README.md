@@ -14,6 +14,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hazanyucel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hazanyucel" /></a></p><br><br>
-
-[![Hazan's GitHub Streak](https://streak-stats.demolab.com/?user=hazanyucel&theme=dark)](https://git.io/streak-stats) <br>
+<br>
+[![Hazan's GitHub Streak](https://streak-stats.demolab.com/?user=hazanyucel&theme=rose)](https://git.io/streak-stats) <br>
 
