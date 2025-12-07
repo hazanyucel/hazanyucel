@@ -1,8 +1,8 @@
 ## Hi, I'm Hazan! 
 
-👩🏻‍💻 Computer Engineer sharing about my journey and learnings in tech <br/>
-👩🏻‍🎓 Studying Computer Engineering at the Fırat University,Türkiye <br/>
-💭 Currently learning about artificial intelligence <br/>
+ ⭒Computer Engineer sharing about my journey and learnings in tech <br/>
+ ⭒Studying Computer Engineering at the Fırat University,Türkiye <br/>
+ ⭒Currently learning about artificial intelligence <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
