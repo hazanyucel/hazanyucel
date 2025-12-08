@@ -1,6 +1,4 @@
 ## Hi, I'm Hazan! 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wc67xdt91xl2xb1uk96g66d0l&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 
  ⭒Computer Engineer sharing about my journey and learnings in tech <br/>
  ⭒Studying Computer Engineering at the Fırat University,Türkiye <br/>
